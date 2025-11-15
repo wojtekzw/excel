@@ -1,0 +1,38 @@
+projekt,zadanie,liczba_godzin,pracownik
+System CRM dla LogiTech,CRMLG-001 Analiza wymagań klienta,24,Aleksandra Lewandowska
+System CRM dla LogiTech,CRMLG-002 Projektowanie architektury,40,Jan Szymański
+System CRM dla LogiTech,CRMLG-003 Implementacja bazy danych,30,Michał Dąbrowski
+System CRM dla LogiTech,CRMLG-004 Implementacja logiki biznesowej,45,Piotr Nowak
+System CRM dla LogiTech,CRMLG-005 Stworzenie interfejsu użytkownika,38,Anna Kowalska
+System CRM dla LogiTech,CRMLG-006 Testowanie systemu,20,Tomasz Wójcik
+System CRM dla LogiTech,CRMLG-007 Wdrożenie systemu,15,Agnieszka Kamińska
+Portal e-commerce DigitalShop,ECDS-001 Analiza wymagań klienta,18,Barbara Woźniak
+Portal e-commerce DigitalShop,ECDS-002 Projektowanie architektury,32,Katarzyna Wiśniewska
+Portal e-commerce DigitalShop,ECDS-003 Implementacja bazy danych,25,Marek Kowalczyk
+Portal e-commerce DigitalShop,ECDS-004 Implementacja logiki biznesowej,50,Adam Jankowski
+Portal e-commerce DigitalShop,ECDS-005 Stworzenie interfejsu użytkownika,42,Magdalena Zielińska
+Portal e-commerce DigitalShop,ECDS-006 Testowanie systemu,22,Monika Wojciechowska
+Portal e-commerce DigitalShop,ECDS-007 Wdrożenie systemu,12,Krzysztof Kozłowski
+Aplikacja mobilna HealthApp,HMAPP-001 Analiza wymagań klienta,16,Aleksandra Lewandowska
+Aplikacja mobilna HealthApp,HMAPP-002 Projektowanie architektury,28,Jan Szymański
+Aplikacja mobilna HealthApp,HMAPP-003 Implementacja bazy danych,20,Michał Dąbrowski
+Aplikacja mobilna HealthApp,HMAPP-004 Implementacja logiki biznesowej,35,Piotr Nowak
+Aplikacja mobilna HealthApp,HMAPP-005 Stworzenie interfejsu użytkownika,40,Anna Kowalska
+Aplikacja mobilna HealthApp,HMAPP-006 Testowanie systemu,18,Tomasz Wójcik
+Aplikacja mobilna HealthApp,HMAPP-007 Wdrożenie systemu,10,Agnieszka Kamińska
+Platforma edukacyjna EduPro,EDPRO-001 Analiza wymagań klienta,20,Barbara Woźniak
+Platforma edukacyjna EduPro,EDPRO-002 Projektowanie architektury,36,Katarzyna Wiśniewska
+Platforma edukacyjna EduPro,EDPRO-003 Implementacja bazy danych,28,Marek Kowalczyk
+Platforma edukacyjna EduPro,EDPRO-004 Implementacja logiki biznesowej,48,Adam Jankowski
+Platforma edukacyjna EduPro,EDPRO-005 Stworzenie interfejsu użytkownika,44,Magdalena Zielińska
+Platforma edukacyjna EduPro,EDPRO-006 Testowanie systemu,24,Monika Wojciechowska
+Platforma edukacyjna EduPro,EDPRO-007 Wdrożenie systemu,14,Krzysztof Kozłowski
+System zarządzania dokumentami DocFlow,DOCFL-001 Przygotowanie umowy,12,Łukasz Kwiatkowski
+System zarządzania dokumentami DocFlow,DOCFL-002 Konsultacje prawne,8,Łukasz Kwiatkowski
+System zarządzania dokumentami DocFlow,DOCFL-003 Analiza wymagań klienta,22,Aleksandra Lewandowska
+System zarządzania dokumentami DocFlow,DOCFL-004 Projektowanie architektury,38,Jan Szymański
+System zarządzania dokumentami DocFlow,DOCFL-005 Implementacja bazy danych,32,Michał Dąbrowski
+System zarządzania dokumentami DocFlow,DOCFL-006 Implementacja logiki biznesowej,52,Piotr Nowak
+System zarządzania dokumentami DocFlow,DOCFL-007 Stworzenie interfejsu użytkownika,46,Anna Kowalska
+System zarządzania dokumentami DocFlow,DOCFL-008 Testowanie systemu,26,Tomasz Wójcik
+System zarządzania dokumentami DocFlow,DOCFL-009 Wdrożenie systemu,16,Agnieszka Kamińska
